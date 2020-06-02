@@ -1,13 +1,13 @@
 #budgetbabe
 budget tracker chrome extension
 
-Inspiration
+# Inspiration
   As almost-broke college students, we saw a lack of financial and budgeting literacy for people in the gen-z community 
   and felt it was imperative to create a project addressing this issue! We have all used budgeting techniques such as 
   spreadsheets and notebook trackers but all are forgotten quickly. We believe that a budget tracker Google Chrome extension 
   is an easily accessible, and clean tool to allow students to track their expenses daily.
 
-What it does
+# What it does
   Budget Babe allows:
   - The user to set a budget which is displayed in the popup
   - Input the amount of money spent
@@ -16,11 +16,6 @@ What it does
 
 How I built it
   I built this using html, css, js, json, and jquery.
-
-Challenges I ran into
-  One of our main challenges was learning to save user data in our google extension and save it on to the available google 
-  chrome database. We also ran into several issues with our feature that involves adding a cost directly from shopping sites.
-  However, through hours of debugging and guidance from our mentors, we were able to overcome these issues!
 
 Accomplishments that I'm proud of
   This is our first time building a chrome extension and exploring web development. We are proud of our design clarity 
@@ -36,5 +31,5 @@ What's next for Budget Babe
   user spending, make the extension more personalized for the individual (implement adding category feature, pick the 
   color scheme, etc.).
   
- Although the idea was born at Rose Hack, we are just getting started. We want to continue building Budget Babe and hopefully 
+ Although the idea was born @ Rose Hack, we are just getting started. We want to continue building Budget Babe and hopefully 
  make a positive impact on our audience!
