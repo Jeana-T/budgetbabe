@@ -1,5 +1,5 @@
-# budgetbabe
-budget tracker chrome extension
+# Budget Babe
+A budget tracker Google Chrome extension
 
 ## Inspiration
   As almost-broke college students, we saw a lack of financial and budgeting literacy for people in the gen-z community 
@@ -15,6 +15,6 @@ budget tracker chrome extension
   - Choose a category for spending
 
 ## How I built it
-  I built this using html, css, js, json, and jquery.
+  I built this using Html, Css, Javascript, JSON, and jQuery.
 
 
